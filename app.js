@@ -96,13 +96,7 @@ intertface.question("Faire une action \n", (choisir) => {
 const creerFichier = () => {
     intertface.question("Creer votre fichier \n", )
 }
-
-
-
-
-
-
-
+creerFichier()
 
 
 
